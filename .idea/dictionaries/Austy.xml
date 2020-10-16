@@ -2,6 +2,8 @@
   <dictionary name="Austy">
     <words>
       <w>airpods</w>
+      <w>axios</w>
+      <w>dotenv</w>
     </words>
   </dictionary>
 </component>
